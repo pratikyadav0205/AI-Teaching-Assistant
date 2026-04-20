@@ -4,6 +4,9 @@ A full-stack web app that helps teachers generate learning materials from any te
 
 ---
 
+## 👨‍💻 Developed by
+**Pratik Yadav**
+
 ## ✨ Features
 
 | Feature | Description |
