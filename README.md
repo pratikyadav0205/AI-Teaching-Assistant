@@ -1,6 +1,6 @@
 # 🎓 AI Teaching Assistant
 
-A full-stack web app that helps teachers generate learning materials from any text or PDF — powered by Claude AI.
+A full-stack web app that helps teachers generate learning materials from any text or PDF.
 
 ---
 
